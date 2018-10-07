@@ -1,5 +1,5 @@
 # Joschki's Blog
-A blog for my dog :) Woof
+A blog for my dog :) 
 
 ### Chracteristics:
 - Name: Joschki
