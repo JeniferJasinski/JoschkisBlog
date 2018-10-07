@@ -1,5 +1,6 @@
 # Joschki's Blog
-A Blog for my dog :) Woof 
+A blog for my dog :) Woof
+
 ### Chracteristics:
 - Name: Joschki
 - Gender: Male
