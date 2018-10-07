@@ -1,2 +1,4 @@
-# JoschkisBlog
-Cute pics of my dog Joschki. 
+# Joschki's Blog
+Cute pics of my dog Joschki :)
+
+### Chracteristics:
